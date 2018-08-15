@@ -6,4 +6,4 @@ Dataset has 1186 objects with 38 features. All features are categorical some of 
 For begin I was cleaning dataset and make more understandable columns names. For instance, the columns which respondend ranked his favorite
 characters was unnamed. 
 
-After orginizing the dataset I analize relations of respondents and visualize data in graph bar.
+After orginizing the dataset I analized relations of respondents and visualized data in graph bar.
